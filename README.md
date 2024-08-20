@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Aspiring learner dedicated the life to learn new technologies in tech industry.....and a lil bit game addict...
+Aspiring learner dedicated the life to learn new technologies in tech industry.....                    
+  
 
 
 ## 🌐 Socials:
